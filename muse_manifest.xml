@@ -1,7 +1,13 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.arcanagame.github.io" resolutions="1x" timestamp="1472644096761">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.arcanagame.github.io" resolutions="1x" timestamp="1472645950302">
   <folder name="css">
     <file name="site_global.css" crc="1966293"/>
-    <file name="index.css" crc="401509902" ref="index"/>
+    <file name="index.css" crc="4279200318" ref="index"/>
+    <file name="master_a-master.css" crc="3910446011" ref="contact:about:index:collab:form:team"/>
+    <file name="contact.css" crc="3935613997" ref="contact"/>
+    <file name="about.css" crc="3848218344" ref="about"/>
+    <file name="collab.css" crc="459622192" ref="collab"/>
+    <file name="form.css" crc="459622192" ref="form"/>
+    <file name="team.css" crc="459622192" ref="team"/>
   </folder>
   <folder name="fonts">
     <file name="trashhand-webfont.woff" crc="4081264123"/>
@@ -9,23 +15,28 @@
     <file name="trashhand-webfont.svg" crc="238725840"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
-    <file name="museutils.js" crc="3851988764" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="169177150" ref="index"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
-    <file name="require.js" crc="4108833657" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:about:team:collab:contact:form"/>
+    <file name="museutils.js" crc="3851988764" ref="index:about:team:collab:contact:form"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:team:collab:contact:form"/>
+    <file name="museconfig.js" crc="169177150" ref="index:about:team:collab:contact:form"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:about:team:collab:contact:form"/>
+    <file name="require.js" crc="4108833657" ref="index:about:team:collab:contact:form"/>
   </folder>
   <folder name="images">
-    <file name="u94-4.png" crc="77185868" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="antlers.png" crc="177784580" seo="true" ref="index"/>
     <file name="new_year_background.jpg" crc="4007379430" ref="index"/>
-    <file name="home.png" crc="4092534548" seo="true" ref="index"/>
-    <file name="blog.png" crc="53541764" seo="true" ref="index"/>
-    <file name="about.png" crc="334003870" seo="true" ref="index"/>
-    <file name="collab.png" crc="4251671941" seo="true" ref="index"/>
-    <file name="contact.png" crc="164927013" seo="true" ref="index"/>
+    <file name="home.png" crc="4092534548" seo="true" ref="index:about:team:collab:contact:form"/>
+    <file name="blog.png" crc="53541764" seo="true" ref="index:about:team:collab:contact:form"/>
+    <file name="about.png" crc="334003870" seo="true" ref="index:about:team:collab:contact:form"/>
+    <file name="collab.png" crc="4251671941" seo="true" ref="index:about:team:collab:contact:form"/>
+    <file name="contact.png" crc="164927013" seo="true" ref="index:about:team:collab:contact:form"/>
+    <file name="u255-4.png" crc="77185868" ref="index:about:team:collab:contact:form"/>
   </folder>
-  <file name="index.html" crc="300371902" seo="true" mt="1472644086453" redirect="true"/>
+  <file name="index.html" crc="118873307" seo="true" mt="1472644459283" redirect="true"/>
+  <file name="about.html" crc="241360159" seo="true" mt="1472645819599" redirect="true"/>
+  <file name="team.html" crc="489028562" seo="true" mt="1472644561091" redirect="true"/>
+  <file name="collab.html" crc="218423049" seo="true" mt="1472644547419" redirect="true"/>
+  <file name="contact.html" crc="55019701" seo="true" mt="1472645736549" redirect="true"/>
+  <file name="form.html" crc="118838576" seo="true" mt="1472644556338" redirect="true"/>
 </manifest>
